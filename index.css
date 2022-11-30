@@ -1,0 +1,11 @@
+body{
+    background-color:aquamarine;
+}
+
+label{
+    display: block;
+}
+
+button{
+    display: block;
+}
